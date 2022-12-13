@@ -1,9 +1,2 @@
-# Getting started:
-
-<ol>
-  <li>Clone this repository into your local machine</li>
-  <li>Open the folder in an editor of your choice (Recommended - VS Code)</li>
-  <li>Download the Live Server extension in VS Code to instantly see your changes made to the website without refreshing the tab</li>
-</ol>
-
-<p>You can begin this task by referring to the READMEs given in the folders named Part-1,2,3,4</p>
+#Drum sound
+This was among the easier tasks i had to just study a bit on dom for that i refered to few tutorials .For this task i just referred to the resources given by amfoss.I already had little knowledge on html,css, vanilla js 
