@@ -24,7 +24,7 @@ I am Nikhil Kumar Mishra,i live in Hyderabad but originally from Odisha,fresher 
 |Task-07  |Go WASM  |Completed
 |Task-08|Internet Explorer|Completed
 |Task-09 |Krypto Scrapper  |Completed
-|Task-10|CS50  |Completed pset1,2,3,4
+|Task-10|CS50  |Completed pset1,2,3
 |Task-11|Figma Ninja|Completed
 | Task-12 |Bunny Heist  |Not Attempted
 |Task-13|Footfall Counter  |Not Attempted
