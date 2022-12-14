@@ -17,7 +17,7 @@ I am Nikhil Kumar Mishra,i live in Hyderabad but originally from Odisha,fresher 
 |[Task-00](https://github.com/yami6969/amfoss_tasks/tree/main/task-00) |Ubuntu  |Completed
 |[Task-01](https://github.com/yami6969/amfoss_tasks/tree/main/task-01)|Staring amFOSS  |Completed
 |[Task-02](https://github.com/yami6969/amfoss_tasks/tree/main/task-02) |Terminal Hunt|Completed|
-|[Task-03](https://github.com/yami6969/amfoss_tasks/tree/main/task-03)|Programming  |Completed 8 questions|
+|[Task-03](https://github.com/yami6969/amfoss_tasks/tree/main/task-03)|Programming  |Completed |
 |[Task-04](https://github.com/yami6969/amfoss_tasks/tree/main/task-04)|CineBot  |Completed
 |[Task-05](https://github.com/yami6969/amfoss_tasks/tree/main/task-05)|Find The Bug|Completed
 |[Task-06](https://github.com/yami6969/amfoss_tasks/tree/main/task-06) |Flame game  |Completed
