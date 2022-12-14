@@ -39,4 +39,4 @@ Hello Seniors,I am Nikhil Kumar Mishra from Hyderabad.I came to know of amfoss t
 **My views about the tasks**
 
 
-I actually really like the way the tasks were designed,they were designed in such a way that we get a basic knowleage of all the fields of cs,and go deeper in any of our interested fields,they were very challanging for me personally and it was difficult for most of the people because the tasks cover a broad range of fields so it will be difficult for anybody to do tasks
+I actually really like the way the tasks were designed,they were designed in such a way that we get a basic knowleage of all the fields of cs,and go deeper in any of our interested fields,they were very challanging for me personally and it was difficult for most of the people because the tasks cover a broad range of fields so it will be difficult for anybody to do tasks.I enjoyed the one and half months journey doing all the tasks hands-on.
