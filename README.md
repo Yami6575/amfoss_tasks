@@ -32,6 +32,11 @@ I am Nikhil Kumar Mishra,i live in Hyderabad but originally from Odisha,fresher 
 | Task-15 | Project Euler |Partially Completed
 
 **My Introduction**
+
 Hello Seniors,I am Nikhil Kumar Mishra from Hyderabad.I came to know of amfoss through Quora and many other sources like i somehow came across a list of colleges that have most gsoc selections in India and Amrita was ranked very high in the list then after some researching i came to know that most of the students from the list were from amFoss and even came across a podcast in youtube related to amfoss which for brilliantly hosted by Anoushka  mam and Pavithra mam which gave me a complete confidence that i have to definitely come to this college for the club itself ,i had made plans of comming to Amrita 6months before the enterance itself lmao. 
+
+
 **My views about the tasks**
+
+
 I actually really like the way the tasks were designed,they were designed in such a way that we get a basic knowleage of all the fields of cs,and go deeper in any of our interested fields,they were very challanging for me personally and it was difficult for most of the people because the tasks cover a broad range of fields so it will be difficult for anybody to do tasks
